@@ -1,0 +1,11 @@
+{
+  "name": "mvcreactgulp",
+  "version": "1.0.0",
+  "description": "Gulp build React components for use in existing ASP.NET MVC5 solution",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aleksa",
+  "license": "ISC"
+}
